@@ -1,0 +1,12 @@
+# Compiled class file
+*.class
+
+# Mac
+.DS_Store
+
+# Maven
+log/
+target/
+
+# Vscode
+.vscode/
